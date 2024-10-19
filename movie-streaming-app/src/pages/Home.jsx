@@ -8,16 +8,16 @@ const Home = () => {
       <div className="container mx-auto px-4 py-8">
         <h1 className="text-4xl font-bold mb-8">
           Movie List
-          <span className="text-yellow-500 font-semibold text-base px-2 rounded">
+          <span className="text-yellow-500 font-semibold text-base px-1 rounded">
             (This is a sample 2 movie list because of storage issue
           </span>
-          <span className="text-red-400 font-semibold text-base rounded">
-            but you can watch the first movie just click :
+          <span className="text-red-400 font-semibold text-base px-1 rounded">
+            but you can watch the first movie just click : 
           </span>
-          <span className="text-yellow-500 font-semibold text-base px-1 rounded">
+          <span className="bg-indigo-700 text-white font-semibold text-base px-1 rounded">
             Watch Now
           </span>
-          <span className="text-yellow-500 font-semibold text-base rounded">
+          <span className="text-yellow-500 font-semibold text-base px-1 rounded">
             )
           </span>
         </h1>
