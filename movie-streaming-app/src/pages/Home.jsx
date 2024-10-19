@@ -9,12 +9,21 @@ const Home = () => {
         <h1 className="text-4xl font-bold mb-8">
           Movie List
           <span className="text-yellow-500 font-semibold text-base px-2 rounded">
-            (This is a sample 2 movie list because of storage issue)
+            (This is a sample 2 movie list because of storage issue
+          </span>
+          <span className="text-red-400 font-semibold text-base rounded">
+            but you can watch the first movie just click :
+          </span>
+          <span className="text-yellow-500 font-semibold text-base px-1 rounded">
+            Watch Now
+          </span>
+          <span className="text-yellow-500 font-semibold text-base rounded">
+            )
           </span>
         </h1>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-          {movies.map((movie) => (  
+          {movies.map((movie) => (
             <div
               key={movie.id}
               className="bg-gray-800 p-4 rounded-lg shadow-lg"
