@@ -3,7 +3,7 @@
 
 This project is a movie listing web application built using **React** and **Vite**. The interface showcases a sample list of movies with an interactive UI that displays movie details like genre, release year, and duration. This project is currently focused on the frontend, with plans to integrate a backend for video streaming.
 
-![Movie List Screenshot](path_to_screenshot_image) <!-- Replace with the actual path or URL to your screenshot image -->
+![Movie List Screenshot](/movie-streaming-app/public/Screenshot.png) <!-- Replace with the actual path or URL to your screenshot image -->
 
 ## Features
 
