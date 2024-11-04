@@ -12,7 +12,7 @@ export const movies = [
       genre: "Sci-Fi, Thriller",
       duration: "2h 28m"
     },
-    {
+    { 
       id: 2,
       title: "The Matrix",
       description: "A hacker discovers a shocking truth about reality.",
