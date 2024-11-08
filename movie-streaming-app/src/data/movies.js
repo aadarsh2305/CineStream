@@ -9,7 +9,7 @@ export const movies = [
       thumbnail: Inception,
       videoUrl: "/movies/inception.mp4",
       year: 2010,
-      genre: "Sci-Fi, Thrillerr",
+      genre: "Sci-Fi, Thriller",
       duration: "2h 28m"
     },
     { 
